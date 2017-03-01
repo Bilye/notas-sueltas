@@ -1,0 +1,3 @@
+Expresiones regulares
+tambien llamadas regex o regexp, consisten en patrones que describen conjuntos de cadenas de caracteres.
+Forma compacta de especificar patrones en un texto
