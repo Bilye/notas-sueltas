@@ -1,0 +1,21 @@
+materialize es un framework front-end que utiliza elementos y principios de Material Design, 
+acelera el proceso de desarrollo y nos proporciona una facilidad de trabajo impresionante
+
+Como obtener materialize 
+
+1- Descargando directamente el css u js de materialize en sus formas amplia y comprimida, 
+esto si no se esta familiarizado con sass, y si lo esta, descargar el scss.
+
+2- Usando el CDN de materialize y colocandolo en el head de nuestro archico html
+
+3- Si se esta famniliarizado con Node.js puede instalar Materialize mediante los gestores de paquetes NPM o Bower
+
+Estructura del proyecto
+
+CSS: Materialize maneja un sistema de rejilla (grid) que se trabaja en filas(row) y cada fila en 12 columnas (col) a su vez,
+Materialize promueve el aspecto de resposive design, para lo cual tiene opcion a poder configurar la forma correcta
+en como se va a visualizar nuestra pagina en diferentes dispositivos con obvimente diferentes tamaños de pantalla
+
+Ocultar, mostrar contenido: 
+
+Color: Basado en material design
